@@ -9,15 +9,6 @@ priceofmobile=30000
 priceofwh=1000
 priceofmb=1000
 priceofclock=2000
-w=0
-n=0
-f=0
-v=0
-r=0
-t=0
-m=0
-h=0
-l=0
 print("hello welcome to shopkart")
 print("  happy shopping :) :) ok first lets check out whats there in store ")
 print("1) groceries")
